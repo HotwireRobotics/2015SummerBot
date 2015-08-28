@@ -1,6 +1,6 @@
 [My Computer]
-My Computer = "192.168.1.124"
+My Computer = "192.168.1.122"
 
 [RT cRIO Target]
-RT cRIO Target = "10.29.90.2"
+RT cRIO Target = "10.12.34.2"
 
